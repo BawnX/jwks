@@ -1,0 +1,8 @@
+{
+    "DEFAULT_DB_HOST": null,
+    "DEFAULT_DB_DATABASE": null,
+    "DEFAULT_DB_USERNAME": null,
+    "DEFAULT_DB_PASSWORD": null,
+    "DEFAULT_DB_ORM_CACHE": null,
+    "APP_INSIGHTS_INSTRUMENTATION_KEY": null
+}
